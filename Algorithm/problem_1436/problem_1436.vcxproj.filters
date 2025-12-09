@@ -13,19 +13,10 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="소스 파일\2775">
-      <UniqueIdentifier>{05c2022e-0229-475f-aa44-0c46225c98d0}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\1436">
-      <UniqueIdentifier>{1903cf84-76ac-4dda-9607-9418e949ac71}</UniqueIdentifier>
-    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="problem_2775.cpp">
-      <Filter>소스 파일\2775</Filter>
-    </ClCompile>
     <ClCompile Include="problem_1436.c">
-      <Filter>소스 파일\1436</Filter>
+      <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
