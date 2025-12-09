@@ -4,8 +4,7 @@ int main()
 {
 	int tc;
 	scanf("%d", &tc);
-	for (int i = 0; i < tc; i++)
-	{
+	for (int i = 0; i < tc; i++){
 		int k, n;
 		scanf("%d", &k);
 		scanf("%d", &n);
