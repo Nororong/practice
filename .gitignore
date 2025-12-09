@@ -15,6 +15,14 @@
 *.ilk
 *.map
 *.exp
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
 
 # Precompiled Headers
 *.gch
@@ -64,6 +72,16 @@ dkms.conf
 # Precompiled Headers
 
 # Compiled Dynamic libraries
+# Linker files
+*.ilk
+
+# Debugger Files
+*.pdb
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
 
 # Fortran module files
 *.mod
@@ -472,3 +490,15 @@ FodyWeavers.xsd
 # Additional files built by Visual Studio
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudio,c,c++
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# debug information files
+*.dwo
+
